@@ -1,0 +1,35 @@
+#menu{
+    background-color:bisque;
+    height: 35px;
+    overflow: hidden;
+}
+
+a{
+    color:firebrick;
+    font-size: 20px;
+    float: left;
+    text-align: center;
+     padding: 14px 16px;
+     text-decoration: none;
+     font-size: 17px;
+}
+a:hover{
+    background-color:rgba(252, 231, 42, 0.445);
+     color: rgba(26, 2, 2, 0.795);
+}
+
+img{
+    width: 40%;
+    float: right;
+    box-shadow:-1px  -1px  black;
+    margin:4px;
+}
+
+article{
+    display: flex;;
+    text-align: justify;
+    clear:both;
+ }
+
+ 
+ 
